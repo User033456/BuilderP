@@ -1,0 +1,14 @@
+C:\projects C#\BuilderP\BuilderP\bin\Debug\net8.0\BuilderP.exe
+C:\projects C#\BuilderP\BuilderP\bin\Debug\net8.0\BuilderP.deps.json
+C:\projects C#\BuilderP\BuilderP\bin\Debug\net8.0\BuilderP.runtimeconfig.json
+C:\projects C#\BuilderP\BuilderP\bin\Debug\net8.0\BuilderP.dll
+C:\projects C#\BuilderP\BuilderP\bin\Debug\net8.0\BuilderP.pdb
+C:\projects C#\BuilderP\BuilderP\obj\Debug\net8.0\BuilderP.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects C#\BuilderP\BuilderP\obj\Debug\net8.0\BuilderP.AssemblyInfoInputs.cache
+C:\projects C#\BuilderP\BuilderP\obj\Debug\net8.0\BuilderP.AssemblyInfo.cs
+C:\projects C#\BuilderP\BuilderP\obj\Debug\net8.0\BuilderP.csproj.CoreCompileInputs.cache
+C:\projects C#\BuilderP\BuilderP\obj\Debug\net8.0\BuilderP.dll
+C:\projects C#\BuilderP\BuilderP\obj\Debug\net8.0\refint\BuilderP.dll
+C:\projects C#\BuilderP\BuilderP\obj\Debug\net8.0\BuilderP.pdb
+C:\projects C#\BuilderP\BuilderP\obj\Debug\net8.0\BuilderP.genruntimeconfig.cache
+C:\projects C#\BuilderP\BuilderP\obj\Debug\net8.0\ref\BuilderP.dll
